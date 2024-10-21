@@ -1,6 +1,7 @@
-This repository provides Python scripts and data for interacting with and testing the security of BLE-enabled wearable medical devices, including the SnapECG, Wellue BPM, Oxylink oximeter, and FreeStyle Libre 2 CGM.  
+This repository provides Python scripts and data logs for interacting with and testing the security of BLE-enabled wearable medical devices, including the SnapECG, Wellue BPM, DuoEK Wellue ECG, Oxylink oximeter, Sleep O2 Oximeter, Dexcon One CGM and FreeStyle Libre 2 CGM.  
 The repository contains the following main components:
 
+- Data Logs: Intercepted packets for the above mentioned wearable medical devices.
 - SnapECG Script: Python code for interacting with and testing the SnapECG device.
 - Wellue BPM Script: Python code for interacting with and testing the Wellue Blood Pressure Monitor (BPM).
 - Oxylink Oximeter Script: Python code for interacting with and testing the Oxylink oximeter.
